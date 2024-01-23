@@ -1,5 +1,5 @@
 Name:		texlive-tocdata
-Version:	65451
+Version:	69512
 Release:	1
 Summary:	Adds names to chapters, sections, figures in the TOC and LOF
 Group:		Publishing
