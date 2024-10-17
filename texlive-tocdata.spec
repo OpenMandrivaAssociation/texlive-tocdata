@@ -3,7 +3,7 @@ Version:	69512
 Release:	1
 Summary:	Adds names to chapters, sections, figures in the TOC and LOF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tocdata
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tocdata
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tocdata.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tocdata.doc.r%{version}.tar.xz
